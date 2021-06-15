@@ -1,0 +1,14 @@
+body {
+    background-color: lightgray;
+    }
+ .name {
+    background:indigo;
+    color: white;
+    padding: 20px;
+    padding-bottom: 0px;
+    height: 70px;
+            
+    }
+.img {
+     margin-top: 20px;
+     }
